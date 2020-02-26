@@ -1,0 +1,96 @@
+body{
+	background-color: #090A29;
+color:#090A29 ;
+}
+
+
+#navigationtext{
+	font-size:12px;
+	font-color:#7480ed;
+	font-family: Futura, sans-serif;
+
+}
+
+#futuratitle {
+	margin-top:0px;
+	color:#263f78;
+	font-family: Futura, sans-serif;
+font-size:40px;
+line-height:15px;
+}
+
+h2{
+	color:#FFFFFF;
+	font-family: Futura, Sans-serif;
+}
+
+#bodytext{ 
+
+	color:#2b2b2b;
+	font-family: Roboto, Sans-serif;
+	font-size: 12px;
+	line-height:15px;
+
+}
+
+
+#overall{
+	margin-top:20px;
+	margin-left: auto;
+	margin-right:auto;
+	width: 600px;
+	height:750px;
+	border:solid;
+	border-color: #FFFFFF;
+	background-color:#123123;
+
+}
+
+#navigation{
+width:598px;
+height: 45px;
+background-color: #FFFFFF;
+padding:2px;
+
+
+}
+
+#text{
+	width: 600px;
+	height: 200px;
+	background-color: #212890;
+
+
+}
+
+
+#description{
+width: 260px;
+height:120px;
+float:left;
+background-color: #FFFFFF;
+padding:20px;
+
+}
+
+#manipulation{
+width: 260px;
+height:120px;
+float:left;
+background-color: #FFFFFF;
+padding:20px;
+}
+
+
+#bottom {
+	width:600px;
+	height:703px;
+	background-color: #FFFFFF;
+
+	
+}
+img{ 
+	max-width: 100%;
+}
+
+

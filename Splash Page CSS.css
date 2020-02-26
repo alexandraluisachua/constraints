@@ -1,0 +1,14 @@
+body{
+	background-color: #171434;
+}
+h1{
+	color:#FFFFFF;
+	font-family: Helvetica, Sans-serif;
+}
+#leftcolumn{
+	width:400px;
+	height:400px;
+	float: left;
+	margin-left: 40px;
+	background:#171434;
+}

@@ -43,7 +43,11 @@ a:hover{
 	color: #090A29;
 }
 
-a { 
+a{color:#FFFFFF;
+
+}
+
+#link { 
   color: white;
   padding-left:100px;
   padding-top:5px;
